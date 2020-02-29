@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: b2631861efa46544daa422f2cf9d7ac9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body1
+    100002: Body2
+    100004: Body3
+    100006: Body4
+    100008: Body5
+    100010: //RootNode
+    100012: Forehead
+    100014: group1
+    100016: group2
+    100018: Head
+    100020: LeftEye
+    100022: LeftPupil
+    100024: Mohawk1
+    100026: Mohawk2
+    100028: Mohawk3
+    100030: Mohawk4
+    100032: Mouth
+    100034: pCube6
+    100036: pCylinder1
+    100038: pCylinder4
+    100040: polySurface1
+    100042: polySurface3
+    100044: pSphere1
+    100046: pSphere1 1
+    100048: pSphere2
+    100050: RightEye
+    100052: RightPupil
+    100054: transform1
+    100056: transform2
+    100058: transform3
+    100060: transform4
+    100062: transform5
+    100064: transform6
+    100066: transform7
+    100068: transform8
+    100070: transform9
+    400000: Body1
+    400002: Body2
+    400004: Body3
+    400006: Body4
+    400008: Body5
+    400010: //RootNode
+    400012: Forehead
+    400014: group1
+    400016: group2
+    400018: Head
+    400020: LeftEye
+    400022: LeftPupil
+    400024: Mohawk1
+    400026: Mohawk2
+    400028: Mohawk3
+    400030: Mohawk4
+    400032: Mouth
+    400034: pCube6
+    400036: pCylinder1
+    400038: pCylinder4
+    400040: polySurface1
+    400042: polySurface3
+    400044: pSphere1
+    400046: pSphere1 1
+    400048: pSphere2
+    400050: RightEye
+    400052: RightPupil
+    400054: transform1
+    400056: transform2
+    400058: transform3
+    400060: transform4
+    400062: transform5
+    400064: transform6
+    400066: transform7
+    400068: transform8
+    400070: transform9
+    2100000: lambert2
+    2100002: lambert3
+    2100004: lambert4
+    2100006: lambert1
+    2300000: Body1
+    2300002: Body2
+    2300004: Body3
+    2300006: Body4
+    2300008: Body5
+    2300010: LeftEye
+    2300012: LeftPupil
+    2300014: Mohawk1
+    2300016: Mohawk2
+    2300018: Mohawk3
+    2300020: Mohawk4
+    2300022: Mouth
+    2300024: polySurface3
+    2300026: RightEye
+    2300028: RightPupil
+    3300000: Body1
+    3300002: Body2
+    3300004: Body3
+    3300006: Body4
+    3300008: Body5
+    3300010: LeftEye
+    3300012: LeftPupil
+    3300014: Mohawk1
+    3300016: Mohawk2
+    3300018: Mohawk3
+    3300020: Mohawk4
+    3300022: Mouth
+    3300024: polySurface3
+    3300026: RightEye
+    3300028: RightPupil
+    4300000: Body1
+    4300002: Body2
+    4300004: Body3
+    4300006: Body4
+    4300008: Body5
+    4300010: polySurface3
+    4300012: RightEye
+    4300014: LeftEye
+    4300016: Mouth
+    4300018: LeftPupil
+    4300020: RightPupil
+    4300022: Mohawk4
+    4300024: Mohawk2
+    4300026: Mohawk3
+    4300028: Mohawk1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
